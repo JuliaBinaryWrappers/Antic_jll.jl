@@ -1,113 +1,113 @@
 [[Antic]]
 arch = "aarch64"
-git-tree-sha1 = "4f69b3ce5fb2dbbef4f991de471f3104716e51de"
+git-tree-sha1 = "44d39cfdf1fd8971ab27fa8ec343a3d5b461ae5f"
 libc = "glibc"
 os = "linux"
 
     [[Antic.download]]
-    sha256 = "26820f90f0975f608caece27b421a4b71e5b1b2be49905ac89b96abae949ca83"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "5ba11ea40de9a08426b61584efcbbb87235c012d7effc0fdcf76bdcf2e644bab"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.aarch64-linux-gnu.tar.gz"
 [[Antic]]
 arch = "aarch64"
-git-tree-sha1 = "260fc3d0a546e1fdc0dd639f62ca28db6eb7577b"
+git-tree-sha1 = "1ba46ddce9389c1841e8b7cf042fa889f7c2be94"
 libc = "musl"
 os = "linux"
 
     [[Antic.download]]
-    sha256 = "76f80631815f7873dd40c9c836731d78548fc13d62632c1f47c444e1b16c3678"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.aarch64-linux-musl.tar.gz"
+    sha256 = "e0eae1417646ad612c4e697e6073c15771a5eaf0b64e261d1c4bcfa7ae486e4c"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.aarch64-linux-musl.tar.gz"
 [[Antic]]
 arch = "armv7l"
-git-tree-sha1 = "918370560340ea103760c51a50ecae43fea8800f"
+git-tree-sha1 = "56cb982851b2e80063e064cf510c60bccfdad403"
 libc = "glibc"
 os = "linux"
 
     [[Antic.download]]
-    sha256 = "342708aade30213ebd6fdc70ecf5a62ab19e5d846d5af8003fcbc7f7cf62d215"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "b4c5379ebc5f877d208e178b71c671e1b577e35cee33f3518f8ba75509a0c490"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
 [[Antic]]
 arch = "armv7l"
-git-tree-sha1 = "b27bf10b6f34a8f8c2bce2b48698bb3374f902b0"
+git-tree-sha1 = "d2a6ae7d85ab4cd72795347a321f455723e8da7d"
 libc = "musl"
 os = "linux"
 
     [[Antic.download]]
-    sha256 = "fc9737ce30f774e54eab9130aa173f706b88b289d7e6f188e2f68dc9546e71f3"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "c8ed191eba52415e824c98f47b6dec504db4fd246e562ee0495cae37638e9e01"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.armv7l-linux-musleabihf.tar.gz"
 [[Antic]]
 arch = "i686"
-git-tree-sha1 = "1e9c5a89d03658febf6730cd62ac5bbe03dad44d"
+git-tree-sha1 = "d63d9f9e2982bde4546b1e1f2464be79e01e1467"
 libc = "glibc"
 os = "linux"
 
     [[Antic.download]]
-    sha256 = "a01ea545a80a8d291ac8271e494fd5b6b4f5e98782018ad8eafcc3328a2dd82c"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.i686-linux-gnu.tar.gz"
+    sha256 = "9b517ce391d50dc717add7c367956614e3bc9bacdc1becc904afe96999f41f98"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.i686-linux-gnu.tar.gz"
 [[Antic]]
 arch = "i686"
-git-tree-sha1 = "d8ce940677cf795729e724e1a6845ad8648c87ae"
+git-tree-sha1 = "1d7da4a0d34ee5614dec050c809926fe58606957"
 libc = "musl"
 os = "linux"
 
     [[Antic.download]]
-    sha256 = "5ae5a04317094810a00e48908ca4ec19d3ec9d694b899de817a7f56c69bec619"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.i686-linux-musl.tar.gz"
+    sha256 = "c802fab9c67c2aac6ca79b47c2cafb466a30edfd8c36e8e229866f52a72ae7c1"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.i686-linux-musl.tar.gz"
 [[Antic]]
 arch = "i686"
-git-tree-sha1 = "51e2155b111124b5ba0c6de03b2306a3aece44c2"
+git-tree-sha1 = "6c5e225864122974f290cdbea82b6b564b24706b"
 os = "windows"
 
     [[Antic.download]]
-    sha256 = "4e330d2ebbb1759cfb297cbb83b52046309a21fa41e041d4d4c7243a015770a7"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.i686-w64-mingw32.tar.gz"
+    sha256 = "7f7952a8176e48b909b2bb3c89c747b10b7904ab413a2bad3a3c3886d38d1e9e"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.i686-w64-mingw32.tar.gz"
 [[Antic]]
 arch = "powerpc64le"
-git-tree-sha1 = "d17d0bcce0c183b15fc3ae5241f80f085e3e8f75"
+git-tree-sha1 = "d1c771aef60119fbda2eec832287189c1c5439bd"
 libc = "glibc"
 os = "linux"
 
     [[Antic.download]]
-    sha256 = "a2306cc34b092ff63b12361088f5fd7d88105e1c1f58a0be1b4319898a90f24a"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "f0c440eb4a87b77a82a2f9db18886ca897fa0fe4d5cde64dbb599cb9cca7b5ce"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.powerpc64le-linux-gnu.tar.gz"
 [[Antic]]
 arch = "x86_64"
-git-tree-sha1 = "2474a63b4624cb7a8cfe2a471267367e0742d80d"
+git-tree-sha1 = "6745a36503fad6b19ee98fb6395e926767a212ef"
 os = "macos"
 
     [[Antic.download]]
-    sha256 = "892f41a1184aa691e783ba864dc699104621a607f83dfaf6674248e914b3d2c4"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.x86_64-apple-darwin14.tar.gz"
+    sha256 = "e24baebb67b702e42720809d08e416975c3aed6826e445d243cb9c8f98e19ebe"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.x86_64-apple-darwin14.tar.gz"
 [[Antic]]
 arch = "x86_64"
-git-tree-sha1 = "ad7c5938beed2ddb29ecb89d017ed5b822f4bc20"
+git-tree-sha1 = "a70edf0344b0c824bcf2509a7da71d0800a4d86b"
 libc = "glibc"
 os = "linux"
 
     [[Antic.download]]
-    sha256 = "e2926aef3f1bb132d2fa276741ed4b11b7a3c4c02e854cb7825780ae74aaafc2"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "f783c2dc021f1d21b178f2ea04f176df2d3124c46a1628629bb0159d1f10de20"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.x86_64-linux-gnu.tar.gz"
 [[Antic]]
 arch = "x86_64"
-git-tree-sha1 = "17df1c905931f0bb38ada70bdab00b4a27e4d9fb"
+git-tree-sha1 = "5ebef1bc0fea99ef8630541a8089b5251e857cb5"
 libc = "musl"
 os = "linux"
 
     [[Antic.download]]
-    sha256 = "881249c99a30b3a0437427936b8f3987e568121c38a1df072da5d78df9a81fe7"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.x86_64-linux-musl.tar.gz"
+    sha256 = "61bc9cf797800b0086efc34011e21deba548e3d03f642cdbae9d43d320c253f0"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.x86_64-linux-musl.tar.gz"
 [[Antic]]
 arch = "x86_64"
-git-tree-sha1 = "908cd0c8a260674548c00a0432c108246b513eb3"
+git-tree-sha1 = "4937fef5528d60c2a3b4b063597df5ea9b4e883a"
 os = "freebsd"
 
     [[Antic.download]]
-    sha256 = "894a1edce0cc1010aef9ee8e76218370d031a02e53fb026bafbe89fb74ecbd93"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "e10e0b1cdc98993003fc6ee505c8f06e9197a8702410fc927d5a0145e6053252"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.x86_64-unknown-freebsd11.1.tar.gz"
 [[Antic]]
 arch = "x86_64"
-git-tree-sha1 = "1c5c2792638d1c92220e0c1d6357f217f18efd51"
+git-tree-sha1 = "41a3cb60b23bea933d703d76001dc75d26dcdbcd"
 os = "windows"
 
     [[Antic.download]]
-    sha256 = "1c45fcc3ad0b4be155a6712f11e17e951572f88d13b380c8500d228123af710d"
-    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+0/Antic.v0.1.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "8e0fce48ff6e3b221c5d9cf6b1b5aadc7a126346be253f81138c2713a0ea28bf"
+    url = "https://github.com/JuliaBinaryWrappers/Antic_jll.jl/releases/download/Antic-v0.1.0+2/Antic.v0.1.0.x86_64-w64-mingw32.tar.gz"
