@@ -5,7 +5,7 @@ using FLINT_jll
 using GMP_jll
 using MPFR_jll
 JLLWrappers.@generate_wrapper_header("Antic")
-JLLWrappers.@declare_library_product(libantic, "@rpath/libantic-0.2.4.dylib")
+JLLWrappers.@declare_library_product(libantic, "@rpath/libantic-0.2.5.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(FLINT_jll, GMP_jll, MPFR_jll)
     JLLWrappers.@init_library_product(
